@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Android_Lab_6</string>
+
+    <string name="title_line">Line</string>
+    <string name="title_oval">Oval</string>
+    <string name="title_rectangle">Rectangle</string>
+    <string name="title_round_rect">Round Rect</string>
+    <string name="title_path">Path</string>
+    <string name="title_arc">Arc</string>
+    <string name="title_alpha">Alpha</string>
+    <string name="title_scale">Scale</string>
+    <string name="title_total">Total</string>
+    <string name="title_translate">Translate</string>
+    <string name="ring">Ring</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="please_choose_the_drawable">Please, choose the drawable:</string>
+    <string name="hello_everyone">Hello Everyone!</string>
+    <string name="shape_animation">Shape Animation</string>
+    <string name="cast_animation">Cast animation</string>
+    <string name="surfaceview">SurfaceView</string>
+    <string name="shapedrawable">ShapeDrawable</string>
+    <string name="alpha">Alpha</string>
+    <string name="rotatescale">RotateScale</string>
+    <string name="total">Total</string>
+    <string name="frame">Frame</string>
+    <string name="title_rotate">rotate</string>
+
+</resources>

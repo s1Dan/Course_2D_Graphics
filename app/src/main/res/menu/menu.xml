@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/ShapeDrawable"
+        android:orderInCategory="100"
+        android:title="Shape Drawable">
+        <menu>
+            <item android:title="@string/title_alpha"
+                android:orderInCategory="100"
+                android:id="@+id/menu_one"/>
+
+            <item android:title="@string/title_rotate"
+                android:orderInCategory="100"
+                android:id="@+id/menu_two"/>
+
+            <item android:title="@string/title_total"
+                android:orderInCategory="100"
+                android:id="@+id/menu_three"/>
+        </menu>
+    </item>
+
+
+    <item android:title="Cast Animation"
+        android:orderInCategory="101"
+        android:id="@+id/menu_cast_animation"/>
+
+    <item android:title="SurfaceView"
+        android:orderInCategory="102"
+        android:id="@+id/menu_SurfaceView"/>
+
+</menu>
